@@ -1,7 +1,8 @@
-//Hello
-
-{
-"name": "sonoo",
-"salary": 56000,
-"married": true
-}
+//echo "Hello Aniket"
+[
+{  
+       "name":     "sonoo",   
+       "salary":      56000,   
+     "married":    true  
+}  
+]
